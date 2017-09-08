@@ -1,2 +1,3 @@
 # CalligraphyNet
-Deep Neural Network for classifying both digits and mathematical symbols
+Deep Neural Network for scoring handwritten calligraphy Edit
+Add topics
