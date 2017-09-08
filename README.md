@@ -1,3 +1,2 @@
 # CalligraphyNet
-Deep Neural Network for scoring handwritten calligraphy Edit
-Add topics
+Deep Neural Network for scoring handwritten calligraphy
